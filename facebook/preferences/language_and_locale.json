@@ -1,0 +1,59 @@
+{
+  "language_and_locale_v2": [
+    {
+      "name": "Language Settings",
+      "description": "Your preferred language settings",
+      "children": [
+        {
+          "name": "Selected Language",
+          "description": "The language you've chosen for your Facebook experience",
+          "entries": [
+            {
+              "data": {
+                "value": "en_US"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Preferred Language for Videos",
+      "description": "The preferred language for videos as determined by videos you've previously viewed",
+      "entries": [
+        {
+          "data": {
+            "value": "el"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Languages You May Know",
+      "description": "Languages you may know as determined by your activity on Facebook",
+      "entries": [
+        {
+          "data": {
+            "value": "en"
+          }
+        },
+        {
+          "data": {
+            "value": "el"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Preferred Language",
+      "description": "Your preferred languages as determined by your activity on Facebook",
+      "entries": [
+        {
+          "data": {
+            "value": "el_GR"
+          }
+        }
+      ]
+    }
+  ]
+}

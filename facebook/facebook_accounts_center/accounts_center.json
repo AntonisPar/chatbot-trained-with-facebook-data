@@ -1,0 +1,20 @@
+{
+  "accounts_center_v2": [
+    {
+      "service_name": "Instagram",
+      "native_app_id": 1363962658,
+      "username": "antonis_parlapanis",
+      "email": "antonispar99@gmail.com",
+      "phone_number": "+306948417735",
+      "name": ""
+    },
+    {
+      "service_name": "Facebook",
+      "native_app_id": 100002697828688,
+      "username": "antonisparlapanis",
+      "email": "antonispar99@gmail.com",
+      "phone_number": "+306948417735",
+      "name": "Antonis Parlapanis"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "devices_v2": [
+    {
+      "type": "iPhone12,1",
+      "os": "iOS 15.0",
+      "update_time": 1633166020,
+      "advertiser_id": "84bf2430-161f-4482-9d0a-28e6a4d3408c",
+      "redact_tokens": [
+        "4895********************",
+        "875e********************",
+        "d72a********************"
+      ],
+      "push_tokens": [
+        {
+          "disabled": false,
+          "client_update_time": 1633135245,
+          "creation_time": 1601540118,
+          "app_version": "331.0.0.13.119",
+          "locale": "en_US",
+          "os_version": "15.0",
+          "token": "4895********************",
+          "device_id": "B3050C39-96D5-4714-A4EC-B28D5C368C2D"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1633135245,
+          "creation_time": 1582286638,
+          "app_version": "331.0.0.13.119",
+          "locale": "en_US",
+          "os_version": "15.0",
+          "token": "875e********************",
+          "device_id": "B3050C39-96D5-4714-A4EC-B28D5C368C2D"
+        },
+        {
+          "disabled": false,
+          "client_update_time": 1632692072,
+          "creation_time": 1618239231,
+          "app_version": "337.0.0.20.119",
+          "locale": "en_GB",
+          "os_version": "15.0",
+          "token": "d72a********************",
+          "device_id": "B3050C39-96D5-4714-A4EC-B28D5C368C2D"
+        }
+      ],
+      "family_device_id": "B3050C39-96D5-4714-A4EC-B28D5C368C2D",
+      "device_locale": "en-GB"
+    }
+  ]
+}

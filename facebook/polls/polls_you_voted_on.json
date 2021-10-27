@@ -1,0 +1,24 @@
+{
+  "poll_votes_v2": [
+    {
+      "timestamp": 1615661951,
+      "attachments": [
+        {
+          "data": [
+            {
+              "poll": {
+                "options": [
+                  {
+                    "option": "\u00ce\u009f\u00ce\u00a7\u00ce\u0099 (\u00ce\u00b6\u00cf\u0089\u00ce\u00ae \u00ce\u00bc\u00ce\u00bf\u00cf\u0085 \u00ce\u00b4\u00ce\u00af\u00ce\u00bd\u00ce\u00bf\u00cf\u0085\u00ce\u00bd)",
+                    "voted": true
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Antonis Parlapanis voted on \u00ce\u009f\u00cf\u008d\u00cf\u0084\u00ce\u00b5 \u00cf\u0084\u00ce\u00bf\u00cf\u0085 \u00ce\u00a0\u00ce\u00b1.\u00ce\u00a0\u00ce\u00b1.'s poll."
+    }
+  ]
+}

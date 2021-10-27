@@ -1,0 +1,44 @@
+{
+  "events_invited_v2": [
+    {
+      "name": "Identity & Access Management Solutions",
+      "start_timestamp": 1618581600,
+      "end_timestamp": 1618588800
+    },
+    {
+      "name": "EESTech Challenge - Local Round Patras 2021",
+      "start_timestamp": 1618034400,
+      "end_timestamp": 1618077600
+    },
+    {
+      "name": "[EESTech Challenge] Open Day",
+      "start_timestamp": 1616166000,
+      "end_timestamp": 1616176800
+    },
+    {
+      "name": "Cybersecurity: From 0 -> h3r0",
+      "start_timestamp": 1615647600,
+      "end_timestamp": 1615654800
+    },
+    {
+      "name": "Introduction to Cybersecurity",
+      "start_timestamp": 1614434400,
+      "end_timestamp": 1614445200
+    },
+    {
+      "name": "Antifa Hip Hop Live",
+      "start_timestamp": 1611257400,
+      "end_timestamp": 0
+    },
+    {
+      "name": "\u00ce\u009c\u00ce\u00b1\u00cf\u0081\u00ce\u00b1\u00ce\u00b8\u00cf\u008e\u00ce\u00bd\u00ce\u00b9\u00ce\u00bf\u00cf\u0082 \u00ce\u009c\u00ce\u00ad\u00ce\u00b3\u00ce\u00b1\u00cf\u0082 \u00ce\u0091\u00ce\u00bb\u00ce\u00ad\u00ce\u00be\u00ce\u00b1\u00ce\u00bd\u00ce\u00b4\u00cf\u0081\u00ce\u00bf\u00cf\u0082 - \u00ce\u00a4\u00ce\u0095\u00ce\u00a7\u00ce\u009d\u00ce\u009f\u00ce\u009c\u00ce\u0091\u00ce\u00a4 \u00ce\u0091\u00ce\u0095",
+      "start_timestamp": 1606626000,
+      "end_timestamp": 0
+    },
+    {
+      "name": "EESTEC LC Patras Meetup",
+      "start_timestamp": 1605456000,
+      "end_timestamp": 0
+    }
+  ]
+}

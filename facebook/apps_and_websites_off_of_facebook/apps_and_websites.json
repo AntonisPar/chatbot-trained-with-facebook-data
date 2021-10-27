@@ -1,0 +1,53 @@
+{
+  "installed_apps_v2": [
+    {
+      "name": "Bitnami",
+      "added_timestamp": 1620910372,
+      "user_app_scoped_id": 3554238961342663,
+      "category": "inactive",
+      "removed_timestamp": 0
+    },
+    {
+      "name": "Gleam Competitions",
+      "added_timestamp": 1610992896,
+      "user_app_scoped_id": 1494310184002228,
+      "category": "inactive",
+      "removed_timestamp": 0
+    },
+    {
+      "name": "Medium",
+      "added_timestamp": 1607631710,
+      "user_app_scoped_id": 3154931771273386,
+      "category": "inactive",
+      "removed_timestamp": 0
+    },
+    {
+      "name": "Skroutz Login",
+      "added_timestamp": 1605876457,
+      "user_app_scoped_id": 3103699463063284,
+      "category": "inactive",
+      "removed_timestamp": 0
+    },
+    {
+      "name": "dod Games",
+      "added_timestamp": 1605828540,
+      "user_app_scoped_id": 3956727624427126,
+      "category": "inactive",
+      "removed_timestamp": 0
+    },
+    {
+      "name": "zoom.us",
+      "added_timestamp": 1603656351,
+      "user_app_scoped_id": 3037126739720557,
+      "category": "inactive",
+      "removed_timestamp": 0
+    },
+    {
+      "name": "Coursera",
+      "added_timestamp": 1602071946,
+      "user_app_scoped_id": 2987912137975351,
+      "category": "inactive",
+      "removed_timestamp": 0
+    }
+  ]
+}

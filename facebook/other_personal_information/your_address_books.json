@@ -1,0 +1,26 @@
+{
+  "address_book_v2": {
+    "address_book": [
+      {
+        "name": "\u00ce\u009a\u00ce\u00b1\u00cf\u0083\u00cf\u0083\u00cf\u0083\u00cf\u0084\u00cf\u0081\u00ce\u00b9\u00ce\u00bf\u00cf\u0084",
+        "details": [
+          {
+            "contact_point": "+306981102446"
+          }
+        ],
+        "created_timestamp": 1433220050,
+        "updated_timestamp": 1603585647
+      },
+      {
+        "name": "\u00ce\u00a3\u00ce\u00bf\u00cf\u0086\u00ce\u00b9\u00ce\u00b1",
+        "details": [
+          {
+            "contact_point": "+306980755881"
+          }
+        ],
+        "created_timestamp": 1433220050,
+        "updated_timestamp": 1603585647
+      }
+    ]
+  }
+}
