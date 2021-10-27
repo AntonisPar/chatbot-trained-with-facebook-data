@@ -1,0 +1,394 @@
+{
+  "participants": [
+    {
+      "name": "Antonaras Tonis"
+    },
+    {
+      "name": "Antonis Parlapanis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1632178529872,
+      "content": "https://facetime.apple.com/join#v=1&p=yfDnixplEeyek6bd7W4wRw&k=4vFBvYiro5BuSdfV6WOEnowPEcTwpBUus2VIyQxonqw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1630688810210,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/photos/241430849_1436710130034851_6690911384777545498_n_1436710126701518.png",
+          "creation_timestamp": 1630688808
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1630688801138,
+      "content": "<div class='login' id='login'> \n\n     <h2>Login</h2>\n             \n        <label  for=\"username\" class=\"label\">Username</label>\n        <input  type=\"text/submit/hidden/button\" class=\"fields\" value=\"\" name=\"username\" id=\"username\">\n \n        <label for=\"pass\" class=\"label\">Password</label>\n        <input id=\"password\" type=\"password\" name=\"password\" class=\"fields\" > \n  \n        <input type=\"submit\" id=\"loginBut\" class=\"buttons\" value=\"Log In\">\n\n        <button class=\"buttons\" id=\"signBut\" >Sign Up</button>\n        <p id='erMes'></p>\n\n    </div>",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1629966986376,
+      "content": "https://www.carhartt-wip.com/en/men-jackets-jackets/brooke-jacket-camo-combi-330_1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1629919490597,
+      "content": "https://www.trouva.com/products/carhartt-wip-brooke-jacket-wax?country=ITA&currency=EUR&gclid=CjwKCAjw1JeJBhB9EiwAV612yxrZY4kqUppPQpPhPAadTEmgPHoAQoetUc_6f3FAdomr3W_anJrKghoChWEQAvD_BwE",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1629814181943,
+      "content": "https://github.com/bhavinkotak07/chord_protocol",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1629803709153,
+      "content": "https://www.vodafone.gr/document/retrieveconsentpdf/?encryptedVisitId=DPdinDWdZkzfoUwFfXTNAg&type=mobile&tc=3AQqZjMEwkGs9nFwro3udF8SnuTqxu2UWKOlc3jl8olZdBAUQ5f13DBvz415tOX-MG89fOkmy6skB7LJqjo80YQXGij9cxkdUlbG7iFzUTw2RphcsJPwCH6Q8NhKglroMYbMZsxFMNP119-As_qsIOXGeQzaHNdZkVioIVZacTTRQhtSK1uiAw_hJutrGVFkdN7C1KPAC_zn2GB1P4CzL0Ci3EayfD_bwmGtuS_wgpx6rKJRWJuEyw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1629398131384,
+      "content": "oloi the bar eiste?",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1629367126552,
+      "content": "https://gist.github.com/whong92/d338f9d006d45ef741fa8aba500f7098",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1626014569445,
+      "content": "https://finduslost.com/milos-greece-travel-guide/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1625937966649,
+      "content": "15079902613",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1625936760010,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/photos/215085850_370708217814658_5421384655083184528_n_370708187814661.jpg",
+          "creation_timestamp": 1625936758
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1624983053734,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/photos/209165545_142432681292880_8128517930446454279_n_142432677959547.png",
+          "creation_timestamp": 1624983052
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1624872677319,
+      "content": "https://www.slideshare.net/ildecito/sistemas-22560667",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1622802356501,
+      "content": "https://www.viva.gr/tickets/order-details/a05a40e5-75e6-4226-9b9d-d57e42662da9/#complete",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1619447130692,
+      "content": "https://drive.google.com/drive/folders/1rB8gxxNxjG0IwfQ39mbvBYWxHgaUzIry?usp=sharing",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1618508904915,
+      "content": "https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1618333304788,
+      "content": "0.9658",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1618333284722,
+      "content": "https://iopscience.iop.org/article/10.1088/1755-1315/428/1/012097/pdf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1618248551542,
+      "content": "http://neuralnetworksanddeeplearning.com/chap1.html",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617810092471,
+      "content": "https://medium.com/tebs-lab/how-to-classify-mnist-digits-with-different-neural-network-architectures-39c75a0f03e3",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617729141229,
+      "content": "https://medium.com/@mjbhobe/mnist-digits-classification-with-keras-ed6c2374bd0e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617126227074,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/photos/167467799_853598321855644_464954507966407719_n_853598315188978.png",
+          "creation_timestamp": 1617126225
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617126039530,
+      "content": "https://www.youtube.com/watch?v=wQ8BIBpya2k",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617122488480,
+      "content": "https://www.kaggle.com/manzoormahmood/mnist-neural-network-from-scratch",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617114111185,
+      "content": "cross validation",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1617113992789,
+      "content": "https://www.kaggle.com/mohammadhy/cnn-mnist-adam-sgd-acc-99-with-plot",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1614709441626,
+      "content": "https://www.youtube.com/watch?v=OH6Z0dJ_Huk",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1613760233889,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/audio/audioclip16137602330009125_268888661309464.mp4",
+          "creation_timestamp": 1613760233
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1613756916072,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/audio/audioclip161375691400010147_1840216722821840.mp4",
+          "creation_timestamp": 1613756914
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1613756827849,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/audio/audioclip161375682600012214_583163382641280.mp4",
+          "creation_timestamp": 1613756826
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1610372440991,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/audio/audioclip161037244000025472_422183252547377.mp4",
+          "creation_timestamp": 1610372440
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1609006465890,
+      "content": "https://codeshack.io/basic-login-system-nodejs-express-mysql/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1609006452727,
+      "content": "https://www.w3jar.com/node-js-login-and-registration-system-with-express-js-and-mysql/",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1607970846675,
+      "content": "https://github.com/shaunakv1/node-chrome-har-replay/tree/master/frontend",
+      "share": {
+        "link": "https://github.com/shaunakv1/node-chrome-har-replay"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1607970827718,
+      "content": "https://stackoverflow.com/questions/58325758/create-a-har-file-with-xhr-request-only-in-chrome-dev-tools",
+      "share": {
+        "link": "https://stackoverflow.com/questions/58325758/create-a-har-file-with-xhr-request-only-in-chrome-dev-tools"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1607970822081,
+      "content": "https://stackoverflow.com/questions/28358424/filter-and-save-back-har-files",
+      "share": {
+        "link": "https://stackoverflow.com/questions/28358424/filter-and-save-back-har-files"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1607970813048,
+      "content": "https://github.com/praveenscience/har-reader/blob/master/Readme.md",
+      "share": {
+        "link": "https://github.com/praveenscience/har-reader"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1607970802634,
+      "content": "https://blog.praveen.science/creating-my-own-har-reader/",
+      "share": {
+        "link": "https://blog.praveen.science/creating-my-own-har-reader/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1607378852262,
+      "content": "https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/",
+      "share": {
+        "link": "https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1606421996949,
+      "content": "https://www.youtube.com/watch?v=vb0vQYoeWt0&t=2s",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=vb0vQYoeWt0"
+      },
+      "type": "Share",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1605715793143,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/photos/126310553_388658278948453_7613702351236623219_n_388658275615120.png",
+          "creation_timestamp": 1605715791
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1602675607358,
+      "videos": [
+        {
+          "uri": "messages/inbox/antonarastonis_sbfvq-rizq/videos/video1602675607_818362532037604.mp4",
+          "creation_timestamp": 1602675604,
+          "thumbnail": {
+            "uri": "https://interncache-ftw.fbcdn.net/v/t15.3394-10/120914487_3620980207963835_1014334550406065359_n.jpg?ccb=1-5&_nc_sid=bdf623&efg=eyJ1cmxnZW4iOiJwaHBfdXJsZ2VuX2NsaWVudC9pbW9nZW46RFlJTWVzc2FnZURhdGFBZGFwdGVyIn0%3D&_nc_eui2=AeGOpmGDMNxycOXOiQPRy3nznBUlIB7aS_-cFSUgHtpL_5xei_1LO83OBG8b8Yis4rEXz3sbY8fDT6urd5rFOq_z&_nc_ad=z-m&_nc_cid=1127&_nc_ht=interncache-ftw&oh=9ec7293fdd7662ab30b90251b924af05&oe=615D5B64"
+          }
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Antonaras Tonis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/antonarastonis_sbfvq-rizq",
+  "magic_words": [
+    
+  ]
+}

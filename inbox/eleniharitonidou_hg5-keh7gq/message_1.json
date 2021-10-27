@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Eleni Haritonidou"
+    },
+    {
+      "name": "Antonis Parlapanis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1626358978249,
+      "content": "\u00ce\u0095\u00cf\u0085\u00cf\u0087\u00ce\u00b1\u00cf\u0081\u00ce\u00b9\u00cf\u0083\u00cf\u0084\u00cf\u008e",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1626358976414,
+      "content": "\u00ce\u009d\u00ce\u00b1 \u00cf\u0083\u00cf\u0084\u00ce\u00b5 \u00ce\u00ba\u00ce\u00b1\u00ce\u00bb\u00ce\u00ac",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Eleni Haritonidou",
+      "timestamp_ms": 1626356121185,
+      "content": "\u00ce\u00a7\u00cf\u0081\u00cf\u008c\u00ce\u00bd\u00ce\u00b9\u00ce\u00b1 \u00cf\u0080\u00ce\u00bf\u00ce\u00bb\u00ce\u00bb\u00ce\u00ac \u00ce\u00ba\u00ce\u00b1\u00ce\u00b9 \u00ce\u00ba\u00ce\u00b1\u00ce\u00bb\u00ce\u00ac \u00ce\u00bc\u00ce\u00b5 \u00cf\u0085\u00ce\u00b3\u00ce\u00b5\u00ce\u00af\u00ce\u00b1!",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Eleni Haritonidou",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/eleniharitonidou_hg5-keh7gq",
+  "magic_words": [
+    
+  ]
+}

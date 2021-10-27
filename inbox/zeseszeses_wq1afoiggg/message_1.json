@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u0096\u00ce\u0097\u00ce\u00a3\u00ce\u0097\u00ce\u00a3 \u00ce\u0096\u00ce\u0097\u00ce\u00a3\u00ce\u0097\u00ce\u00a3"
+    },
+    {
+      "name": "Antonis Parlapanis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1623316628278,
+      "content": "https://youtu.be/bRPbUGokcYo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1623316627622,
+      "content": "https://youtu.be/bRPbUGokcYo",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1623316524774,
+      "content": "https://youtu.be/bRPbUGokcYo",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "\u00ce\u0096\u00ce\u0097\u00ce\u00a3\u00ce\u0097\u00ce\u00a3 \u00ce\u0096\u00ce\u0097\u00ce\u00a3\u00ce\u0097\u00ce\u00a3",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/zeseszeses_wq1afoiggg",
+  "magic_words": [
+    
+  ]
+}

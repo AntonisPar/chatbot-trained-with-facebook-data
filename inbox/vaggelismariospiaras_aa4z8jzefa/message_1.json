@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Vaggelis Marios Piaras"
+    },
+    {
+      "name": "Antonis Parlapanis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vaggelis Marios Piaras",
+      "timestamp_ms": 1616168270042,
+      "content": "\u00ce\u009f\u00ce\u00ba \u00cf\u0086\u00ce\u00af\u00ce\u00bb\u00ce\u00bf\u00cf\u0082",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1616168236036,
+      "content": "Ela vaggelh tlk dn mporw apopse etuxe mia douleia",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Vaggelis Marios Piaras",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/vaggelismariospiaras_aa4z8jzefa",
+  "magic_words": [
+    
+  ]
+}

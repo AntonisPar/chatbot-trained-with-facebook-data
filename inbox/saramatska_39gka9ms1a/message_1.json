@@ -1,0 +1,207 @@
+{
+  "participants": [
+    {
+      "name": "Sara Matska"
+    },
+    {
+      "name": "Antonis Parlapanis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601999956833,
+      "content": "Nai",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601999947978,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00cf\u0084\u00ce\u00b5\u00ce\u00b2\u00ce\u00b1\u00ce\u00af\u00ce\u00bd\u00cf\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601999946332,
+      "content": "\u00ce\u009d\u00ce\u00b1\u00ce\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601999708515,
+      "content": ";",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601999707378,
+      "content": "\u00ce\u009d\u00ce\u00b1 \u00ce\u00ad\u00cf\u0081\u00ce\u00b8\u00cf\u0089 \u00ce\u00ad\u00ce\u00be\u00cf\u0089 \u00ce\u00b1\u00cf\u0080 \u00cf\u0084\u00ce\u00bf \u00ce\u00ba\u00ce\u00b1\u00cf\u0081\u00ce\u00bf\u00cf\u0085\u00ce\u00b6\u00ce\u00b5\u00ce\u00bb\u00ce\u00bf",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601999695421,
+      "content": "Eimai sthn aulh",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601996816101,
+      "content": "You called Sara.",
+      "call_duration": 26,
+      "type": "Call",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601996776596,
+      "content": "Nai",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601996776454,
+      "content": "\u00ce\u0095\u00cf\u0087\u00cf\u0089 \u00ce\u00bc\u00ce\u00b5\u00cf\u0084\u00ce\u00b1\u00ce\u00ba\u00ce\u00b9\u00ce\u00bc\u00ce\u00b9\u00cf\u0083\u00ce\u00b5\u00ce\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601996773437,
+      "content": "\u00ce\u00a3\u00ce\u00b1\u00cf\u0084\u00cf\u0089\u00ce\u00b2\u00cf\u0081\u00ce\u00b9\u00ce\u00b1\u00ce\u00bd\u00ce\u00b4\u00ce\u00bf\u00cf\u0085;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601996767747,
+      "content": "Ap to spiti sou",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601996761963,
+      "content": "\u00ce\u0091\u00cf\u0080\u00cf\u008c \u00cf\u0080\u00ce\u00bf\u00cf\u0085;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601996749425,
+      "content": "Eimai apo katw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601995550902,
+      "content": "Wraia",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601995541812,
+      "content": "\u00ce\u009d\u00ce\u00b1\u00ce\u00b9\u00ce\u00b9\u00ce\u00b9\u00ce\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601995539099,
+      "content": "\u00ce\u0088\u00ce\u00b3\u00ce\u00b9\u00ce\u00bd\u00ce\u00b5",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601995531275,
+      "photos": [
+        {
+          "uri": "messages/inbox/saramatska_39gka9ms1a/photos/120765168_646021046116509_7893263097158508921_n_646021042783176.png",
+          "creation_timestamp": 1601995529
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601995527158,
+      "content": "\u00ce\u0091\u00cf\u0085\u00cf\u0084\u00cf\u008c \u00ce\u00b4\u00ce\u00bd \u00ce\u00b5\u00ce\u00af\u00ce\u00bd\u00ce\u00b1\u00ce\u00b9 \u00ce\u00bc\u00cf\u008c\u00ce\u00bd\u00ce\u00bf;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601995489949,
+      "content": "Nai tha sou steilw otan ftanw",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601995457831,
+      "content": "\u00ce\u0088\u00cf\u0081\u00cf\u0087\u00ce\u00b5\u00cf\u0083\u00ce\u00b1\u00ce\u00b9 \u00ce\u00ba\u00ce\u00ad\u00ce\u00bd\u00cf\u0084\u00cf\u0081\u00ce\u00bf;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601995451903,
+      "content": "\u00ce\u00a3\u00cf\u0080\u00ce\u00b9\u00cf\u0084\u00ce\u00b9\u00ce\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601995414695,
+      "content": "\u00ce\u00a3\u00ce\u00b1\u00cf\u0081\u00ce\u00b1\u00ce\u00b1 \u00cf\u0080\u00ce\u00bf\u00cf\u0085 \u00ce\u00b5\u00ce\u00af\u00cf\u0083\u00ce\u00b1\u00ce\u00b9 ;",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601881618868,
+      "content": "\u00ce\u0094\u00ce\u00b5\u00ce\u00bd \u00cf\u0080\u00ce\u00b5\u00ce\u00b9\u00cf\u0081\u00ce\u00b1\u00ce\u00b6\u00ce\u00b5\u00ce\u00b9. \u00ce\u00a9\u00cf\u0081\u00ce\u00b1\u00ce\u00af\u00ce\u00b1, \u00ce\u009d\u00ce\u00b1\u00ce\u00b9",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601833270912,
+      "content": "\u00ce\u0098\u00ce\u00b1 \u00cf\u0083\u00ce\u00bf\u00cf\u0085 \u00cf\u0083\u00cf\u0084\u00ce\u00b5\u00ce\u00af\u00ce\u00bb\u00cf\u0089 \u00cf\u008c\u00cf\u0084\u00ce\u00b1\u00ce\u00bd \u00ce\u00be\u00ce\u00b1\u00ce\u00bd\u00ce\u00ac \u00ce\u00ba\u00ce\u00b1\u00cf\u0084\u00ce\u00ad\u00ce\u00b2\u00cf\u0089",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1601833252058,
+      "content": "\u00ce\u00a4\u00ce\u00bf \u00ce\u00b5\u00ce\u00af\u00ce\u00b4\u00ce\u00b1 \u00cf\u0084\u00ce\u00bf \u00ce\u00bc\u00cf\u0085\u00ce\u00bd\u00ce\u00b7\u00ce\u00bc\u00ce\u00b1 \u00cf\u008c\u00cf\u0084\u00ce\u00b1\u00ce\u00bd \u00ce\u00be\u00cf\u008d\u00cf\u0080\u00ce\u00bd\u00ce\u00b7\u00cf\u0083\u00ce\u00b1 \u00ce\u00ba\u00ce\u00b1\u00ce\u00b9 \u00ce\u00ba\u00ce\u00ac\u00ce\u00b7\u00ce\u00ba\u00ce\u00b1 \u00ce\u00bc\u00ce\u00b5\u00cf\u0084\u00ce\u00ac \u00cf\u0084\u00ce\u00bf \u00ce\u00be\u00ce\u00ad\u00cf\u0087\u00ce\u00b1\u00cf\u0083\u00ce\u00b1",
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Sara Matska",
+      "timestamp_ms": 1601797055378,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00ce\u00bc\u00ce\u00b5\u00cf\u0081\u00ce\u00b1\u00ce\u00b1\u00ce\u00b1\u00ce\u00b1! \u00ce\u008c\u00cf\u0080\u00ce\u00bf\u00cf\u0084\u00ce\u00b5 \u00ce\u00ad\u00cf\u0081\u00ce\u00b8\u00ce\u00b5\u00ce\u00b9\u00cf\u0082 \u00cf\u0080\u00cf\u0081\u00ce\u00bf\u00cf\u0083 \u00cf\u0084\u00ce\u00bf \u00ce\u00ba\u00ce\u00ad\u00ce\u00bd\u00cf\u0084\u00cf\u0081\u00ce\u00bf \u00cf\u0083\u00ce\u00b5 \u00ce\u00b2\u00ce\u00bf\u00ce\u00bb\u00ce\u00b5\u00cf\u0085\u00ce\u00b5\u00ce\u00b9 \u00ce\u00bd\u00ce\u00b1 \u00ce\u00b2\u00cf\u0081\u00ce\u00b5\u00ce\u00b8\u00ce\u00bf\u00cf\u0085\u00ce\u00bc\u00ce\u00b5 \u00ce\u00bd\u00ce\u00b1 \u00ce\u00bc\u00ce\u00bf\u00cf\u0085 \u00ce\u00b4\u00cf\u008e\u00cf\u0083\u00ce\u00b5\u00ce\u00b9\u00cf\u0082 \u00cf\u0084\u00ce\u00b1 \u00cf\u0080\u00cf\u0081\u00ce\u00ac\u00ce\u00b3\u00ce\u00bc\u00ce\u00b1\u00cf\u0084\u00ce\u00b1;",
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Sara Matska",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/saramatska_39gka9ms1a",
+  "magic_words": [
+    
+  ]
+}

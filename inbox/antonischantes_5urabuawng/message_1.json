@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Antonis Chantes"
+    },
+    {
+      "name": "Antonis Parlapanis"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Antonis Chantes",
+      "timestamp_ms": 1620031810507,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "is_unsent": false
+    },
+    {
+      "sender_name": "Antonis Parlapanis",
+      "timestamp_ms": 1620031607109,
+      "photos": [
+        {
+          "uri": "messages/inbox/antonischantes_5urabuawng/photos/181996839_502626417584745_8105710327667086436_n_502626377584749.jpg",
+          "creation_timestamp": 1620031606
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false
+    }
+  ],
+  "title": "Antonis Chantes",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/antonischantes_5urabuawng",
+  "magic_words": [
+    
+  ]
+}
