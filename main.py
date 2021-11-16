@@ -36,6 +36,7 @@ for folder in folders:
                     pairs = []
                     message = [] #message pair
 
+
                     for m in new_conversation[::-1]:
                         if len(message) == 0 or len(message) == 2:
                             if m["sender_name"] != "Antonis Parlapanis":
