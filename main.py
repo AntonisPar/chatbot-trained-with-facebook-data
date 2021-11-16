@@ -7,7 +7,7 @@ import unicodedata
 import re
 from string import printable
 import pandas as pd
-from pip._vendor.webencodings import Encoding
+# from pip._vendor.webencodings import Encoding
 
 def remove_emoji(df):
   return df.applymap(lambda y: ''.join(filter(lambda x: x in printable, y)))
